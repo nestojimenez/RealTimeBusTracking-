@@ -16,7 +16,7 @@ npm install RealTimeBusTracking-
 import RealTimeBusTracking-
 
 # how to use RealTimeBusTracking-
-setInterval(Run, 200)
+run()
 ```
 
 ## Contributing
